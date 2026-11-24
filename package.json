@@ -1,0 +1,13 @@
+{
+  "name": "news-image-20261124",
+  "version": "1.0.0",
+  "description": "Sum up 24 November's world news in one image - make.fun bounty entry",
+  "main": "main.ts",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "typescript": "^5.0.0"
+  }
+}
