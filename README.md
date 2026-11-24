@@ -1,5 +1,9 @@
 # 2026-11-24 World News Summary Bounty Entry
 
+[![make.fun bounty](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124)
+[![make.fun rank](https://make.fun/badge/news-image-20261124/jubingx-gif/makefun-bounty-news-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124)
+[![make.fun reward](https://make.fun/badge/news-image-20261124/jubingx-gif/makefun-bounty-news-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124)
+
 This project is a submission for the [make.fun](https://make.fun/bounty/news-image-20261124) bounty: **"Sum up 24 November's world news in one image"**.
 
 ## News Summary (2026-11-24)
